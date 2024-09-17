@@ -33,7 +33,8 @@
 **Note: for Boost, the button must be held down for 0.2 seconds*
 - **Keyboard**: Left Shift  
 - **Gamepad**: Right Shoulder  
-
+---
+##![Gameplay Screenshot]([https://ibb.co/pXxtmt6)
 ---
 
 ## Terms of Reference
