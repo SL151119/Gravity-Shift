@@ -34,6 +34,7 @@
 - **Keyboard**: Left Shift  
 - **Gamepad**: Right Shoulder  
 ---
+##Gameplay Screenshot
 ![Gameplay Screenshot](https://i.ibb.co/mzGLxLr/Gameplay-Screenshot.png)
 ---
 
