@@ -32,7 +32,7 @@
 - Mouse or RightStick on Gamepad  
 
 **Boost**
-**Note: for Boost, the button must be held down for 0.2 seconds*
+**_Note: for Boost, the button must be held down for 0.2 seconds_**
 - **Keyboard**: Left Shift  
 - **Gamepad**: Right Shoulder  
 ---
