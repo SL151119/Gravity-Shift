@@ -20,7 +20,7 @@
 - Mouse or RightStick on Gamepad  
 
 **Boost**
-**Need to hold 0.2sec for apply boost"
+**Note: for Boost, the button must be held down for 0.2 seconds*
 - **Keyboard**: Left Shift  
 - **Gamepad**: Right Shoulder  
 
