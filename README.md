@@ -10,6 +10,8 @@
 - **VFX**
 - **Shader Graphs**
 - **Particle System**
+- **SRP LensFlare**
+- **Post Processing**
 - **New Input System**
 
 ### Controls
