@@ -19,7 +19,8 @@
 **PitchYaw (camera control)**  
 - Mouse or RightStick on Gamepad  
 
-**Boost**  
+**Boost**
+**Need to hold 0.2sec for apply boost"
 - **Keyboard**: Left Shift  
 - **Gamepad**: Right Shoulder  
 
@@ -27,10 +28,10 @@
 
 ## Terms of Reference
 
-You control a spaceship with a joystick in 3D space. The ship must move according to the logic of space (skidding when turning, weightlessness—the more naturally it is implemented, the better). 
+You control a spaceship with a joystick in 3D space. The ship must move according to the logic of space (skidding when turning, weightlessness, the more natural it is implemented, the better). 
 
 The goal is to fly to the planet, avoiding obstacles such as asteroids, which are spawned at the beginning of the game. These asteroids orbit around the planet's axis in random order and rotate around their own axis. 
 
-When the ship collides with an asteroid, there is a small camera shake, damage text appears, and the ship gets knocked back slightly. 
+If the ship collides with an asteroid, there is a small shake of the camera, the damage text appears and the ship should fly away a little.
 
-Additionally, a radius should be displayed around the ship. When the ship enters this radius, it will automatically collect resources (coins). A hook will spawn from the ship, move toward the coin, collect it, and return to the ship.
+A radius should be displayed around the ship, when it hits it, the ship automatically collects resources (coins) - a hook will spawn from the ship, which moves to the coin, picks it up and moves back to the ship.
